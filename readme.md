@@ -22,3 +22,4 @@ MONSTRIX 2.0 é um robô virtual interativo desenvolvido para ESP32 com display 
 Tela GMT130 v1.0 240x240
 
 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2eb2c3bd-104e-4db0-b251-3ed0cacfe8ff" />
