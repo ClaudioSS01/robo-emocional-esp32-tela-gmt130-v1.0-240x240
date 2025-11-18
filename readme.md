@@ -23,3 +23,10 @@ Tela GMT130 v1.0 240x240
 
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2eb2c3bd-104e-4db0-b251-3ed0cacfe8ff" />
+
+
+--- 
+
+drives de esp32 caso vc precise para baixar e fazer seu windows reconhecer seu esp32 
+
+https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
