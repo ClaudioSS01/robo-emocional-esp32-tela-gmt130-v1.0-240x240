@@ -19,4 +19,6 @@
 
 MONSTRIX 2.0 é um robô virtual interativo desenvolvido para ESP32 com display ST7789. Ele expressa 8 diferentes emoções através de animações faciais coloridas, com olhos expressivos que se movem aleatoriamente e bocas que mudam de acordo com o humor. O robô pode ser controlado remotamente via Bluetooth, tornando-o perfeito para projetos educacionais, decoração interativa ou simplesmente diversão!
 
+Tela GMT130 v1.0 240x240
+
 
